@@ -75,7 +75,21 @@ I am a passionate **Full-Stack Developer** specializing in building modern, scal
       </ul>
     </td>
     <td width="50%">
-      <h3 align="center">ApexCraft Studio & Demos</h3>
+      <h3 align="center">FinanceFlow — Expense Intelligence</h3>
+      <p align="center">
+        <a href="https://github.com/hadayatullahkhattak89-boop/financeflow">
+          <img src="https://img.shields.io/badge/Repository-View%20Source-blue?style=flat-square&logo=github" alt="Repo" />
+        </a>
+      </p>
+      <ul>
+        <li><b>Stack:</b> React 18, TypeScript, Tailwind CSS, SVG Visual Analytics</li>
+        <li><b>Features:</b> Modern personal finance dashboard with real-time liquidity KPIs, dynamic budget threshold alerts, savings milestones, multi-currency engine (PKR, USD, EUR, GBP), and CSV export.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center">ApexCraft Studio & Interactive Client Demos</h3>
       <p align="center">
         <a href="https://github.com/hadayatullahkhattak89-boop/apexcraft-studio-portfolio">
           <img src="https://img.shields.io/badge/Repository-View%20Source-blue?style=flat-square&logo=github" alt="Repo" />
@@ -85,8 +99,8 @@ I am a passionate **Full-Stack Developer** specializing in building modern, scal
         </a>
       </p>
       <ul>
-        <li><b>Stack:</b> Modern JavaScript, CSS3 Glassmorphism, Google Fonts</li>
-        <li><b>Features:</b> Agency portfolio showcasing live interactive client demos: NovaStore (E-commerce), Vanguard (B2B SaaS Analytics), and Savor & Spice (Restaurant Booking).</li>
+        <li><b>Stack:</b> Modern JavaScript, CSS3 Glassmorphism, Google Fonts, Performance Architecture</li>
+        <li><b>Features:</b> Agency portfolio showcasing live interactive client demos: NovaStore (Cyber Retail E-commerce), Vanguard (B2B SaaS Analytics), and Savor & Spice (Restaurant Reservations).</li>
       </ul>
     </td>
   </tr>
